@@ -1,0 +1,16 @@
+body, html, .container {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 25em;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
